@@ -1,1 +1,5 @@
 Is this working?
+
+I guess it does.
+
+echo string > filename to add txt btw
