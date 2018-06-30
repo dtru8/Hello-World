@@ -1,2 +1,2 @@
 Hello, I am a line
-And I am another line
+And I am another line.
